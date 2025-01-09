@@ -53,7 +53,7 @@ add your package path to the repositories section (create this section at the en
 }
 ```
 
-refresh package list through composer 
+refresh package list through composer:
 ```sh
 composer dumpautoload
 ```
